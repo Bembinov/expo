@@ -49,7 +49,7 @@
     "jest-canvas-mock": "^2.1.1",
     "jest-enzyme": "^7.1.0",
     "jest-expo": "~37.0.0",
-    "react-test-renderer": "~16.9.0"
+    "react-test-renderer": "~16.11.0"
   },
   "devDependencies": {
     "@types/enzyme": "^3.10.3",
